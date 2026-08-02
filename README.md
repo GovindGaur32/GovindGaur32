@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Finding Opportunities as FrontEnd Developer or Full Stack Developer<br>🤝 I’m looking for help with Learning New Things<br>🌱 I’m currently learning React js,Nextjs,Nodejs<br>⚡ Fun fact
+🔭 I’m currently Finding Opportunities as FrontEnd Developer or Full Stack Developer<br>🤝 I’m looking for help with Learning New Things<br>🌱 I’m currently learning PostgresSql,Prisma<br>⚡ Fun fact
 <h1 align="center">Hello there , My Self Govind Sharma👋</h1><br><h3 align="center">🚀 Passionate React.js Developer | Frontend Enthusiast | UI/UX Lover  |  Mern Stack Developer  </h3><br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=React.js+Developer;Front-End+Engineer;JavaScript+%7C+TypeScript+%7C+Next.js;UI/UX+Lover+%7C+Open+Source+Contributor" alt="Typing SVG" /><br></p>
 
 
